@@ -41,6 +41,9 @@ This is an offshoot of [Do Read The Comments](https://github.com/lisawilliams/do
 
 ## News and Community -- an (unfinished) reading list
 
+Melody Kramer's [If I Ran A Station](http://melodykramer.github.io/2015/05/14/if-I-ran-a-station/) is a cornucopia of engagement ideas, from running classes, to having public recording stations, to personalization, to...well, [just go read the whole thing](http://melodykramer.github.io/2015/05/14/if-I-ran-a-station/).  
+
+
 I write this in 2015, and it is remarkable to me how old many of these essays are.  It feels in part as though we've passed on beyond community, like it's a missed opportunity. True? -- LW
 
 *"We search for new business models that involve paywalls, more video, the iPad, and wealthy donors, while the most powerful emerging business driver in the new economy is community."*  
@@ -107,6 +110,7 @@ I am grateful to the people who read through this and offered their thoughts.
 
 *"It feels like we forget to think about how to engage those affected & interested often. It ends up making it impossible for management to understand why a well-built community may be upset when something changes."* [Andre Natta](http://twitter.com/acnatta)
 
+Melody Kramer contributed links to two pieces of her own in [this issue](https://github.com/lisawilliams/community/issues/1), which you can find in the [Reading List](https://github.com/lisawilliams/community#news-and-community----an-unfinished-reading-list) and [Hors Categorie](https://github.com/lisawilliams/community#hors-categorie)
 ## Codebases
 
 *More to come here.  Do you have anything to add?*
@@ -117,5 +121,7 @@ I am grateful to the people who read through this and offered their thoughts.
 
 ## Hors Categorie
 
-*More to come here.  Do you have anything to add?  Recipes and existential questions belong in this section.*
+*More to come here.  Do you have anything to add?  Recipes and existential questions belong in this section. These are the high mountains, the difficult to scale problems. Let's not just ignore them.  Let us gaze upon their majesty, or shiver in their icy shadow as our mood suits us.*
+
+Melody Kramer's "[What's the point of local?](http://melodykramer.github.io/2015/05/20/whats-the-point-of-local/)" asks why have local stations at all.  This is an existential question for every local or regional publication.  In the age of the web, tiered distribution models where local outlets rebroadcast/reprint material from a national source are unlikely to be defensible: users can go straight to the source, eliminating the middleman.  So local businesses must have something of value to local audiences that is not easily reproduced by faraway, more centralized organizations who may be able to do so with greater resources or at a lower cost, or both.  So what is that, anyway?   More on this later. 
 
