@@ -101,6 +101,12 @@ I write this in 2015, and it is remarkable to me how old many of these essays ar
 
 Alison Gow, quoted in Jake Batsell's book [Engaged Journalism: Connecting With Digitally Empowered News Audiences](http://www.amazon.com/Engaged-Journalism-Connecting-Digitally-Empowered/dp/0231168357) 2015 
 
+## Responses & Contributions
+
+I am grateful to the people who read through this and offered their thoughts.  
+
+*"It feels like we forget to think about how to engage those affected & interested often. It ends up making it impossible for management to understand why a well-built community may be upset when something changes."* [Andre Natta](http://twitter.com/acnatta)
+
 ## Codebases
 
 *More to come here.  Do you have anything to add?*
