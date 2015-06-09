@@ -1,8 +1,23 @@
 #Community for News organizations
 
+##Questions
+
 I write this in 2015, and it is remarkable to me how old many of these essays are.  It feels in part as though we've passed on beyond community, like it's a missed opportunity.  True? -- LW
 
-A reading list.  
+
+## Where did this come from?  
+
+This is an offshoot of [Do Read The Comments](https://github.com/lisawilliams/doreadthecomments), a similar collection specifically about reforming and reclaiming comments from their current slough of despond.
+
+## Can I add to this?  
+
+Yes, absolutely.  Here are some instructions on how to add to this repository: [Here's a beginner's guide](https://nerds.inn.org/2015/03/17/contributing-to-the-inn-nerds-docs-repo-using-github-com/). Just substitute this repository for the one used as an example in the tutorial.  
+
+If that feels like too much, you can just click [Issues](https://github.com/lisawilliams/community/issues/new) and let me know what's on your mind.  You'll need a (free) Github account to do so.  
+
+If that still feels like too much, summon me on the Twitter, where I am [@lisawilliams](http://twitter.com/lisawilliams).
+
+## Reading List 
 
 *"We search for new business models that involve paywalls, more video, the iPad, and wealthy donors, while the most powerful emerging business driver in the new economy is community."*  
 
@@ -49,3 +64,9 @@ A reading list.
 *But there’s opportunity within the empty quadrants – how could users/readers get involved before publication? And how could staff/journalists continue to be involved following publication?*
 
 [Publishing process and opportunities for community collaboration](http://megpickard.com/2011/05/publishing-process-and-opportunities-for-community-collaboration/)  Meg Pickard, writing in 2011
+
+## Codebases
+
+## Problems 
+
+## Hors Categorie
