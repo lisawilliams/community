@@ -36,7 +36,7 @@ A person in charge of community engagement for our organization will:
 
 ## What is community for?	
 
-How news creates the public space, the medium upon which community forms.  
+*What to put here: How news creates the public space, the medium upon which community forms.*
 
 
 ## Where did this come from?  
