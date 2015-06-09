@@ -41,6 +41,9 @@ This is an offshoot of [Do Read The Comments](https://github.com/lisawilliams/do
 
 ## News and Community -- an (unfinished) reading list
 
+Here are things I am reading and noting as I think this through.  They may be of interest to you too.  Have more?  Submit them [here](https://github.com/lisawilliams/community/issues/new). 
+
+
 Melody Kramer's [If I Ran A Station](http://melodykramer.github.io/2015/05/14/if-I-ran-a-station/) is a cornucopia of engagement ideas, from running classes, to having public recording stations, to personalization, to...well, [just go read the whole thing](http://melodykramer.github.io/2015/05/14/if-I-ran-a-station/).  
 
 
