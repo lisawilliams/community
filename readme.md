@@ -118,6 +118,21 @@ I am grateful to the people who read through this and offered their thoughts.  I
 
 Melody Kramer contributed links to two pieces of her own in [this issue](https://github.com/lisawilliams/community/issues/1), which you can find in the [Reading List](https://github.com/lisawilliams/community#news-and-community----an-unfinished-reading-list) and [Hors Categorie](https://github.com/lisawilliams/community#hors-categorie)
 
+Michael Skoler of PRI had this to add:  
+
+*I wonder if you might go a step further. The description calls for someone to create partnership with the community. But what about creating service to the community?*
+
+*I mean service not in a charitable sense, but in a business sense. While I have lived inside the public radio membership model most of my career, I have always thought it was limited because it depends on people wanting to donate to us rather than on needing to pay us in return for getting valuable service that is too important to go without. The first is choice, the second necessity.*
+
+*I see our journalism as the attractant that builds a community of shared interests - you know this well from your own work. What happens once people feel part of a community is where engagement and service really start. I would want someone to really dive into the unmet needs that the community, or communities, have that we could fulfill using our ability to organize information and be a trusted facilitator. Perhaps when you say “make membership meaningful in a digital context” you are talking about making it “obviously valuable using digital tools.”*
+
+*In my mind, there are two types of responsibilities:*
+*1) Connecting - helping station news staff meet and converse and respond to the audience day-to-day by email, social media, phone; drawing people into discussion of stories online or in person; holding events with presentations, speakers or debates; getting audience story ideas as a driver of coverage or creation of new shows; asking and measuring whether news coverage is fitting the interests of the community. This is about strengthening the sense of community.*
+
+*2) Serving - creating products and services based on what we know about the community. This can be as mundane as creating babysitter rating and scheduling services in a community with lots of young parents or as big as finding ways to bring people of different races together in a tense community around shared issues and events (kids sports or summer camp forums or volunteer matching.) Many of these services can be done easily with digital tools and could be tied to being a “member.” I am a fan of events revenue, too, and the underwriting opportunities they provide, a la Texas Tribune. WNYC has even held singles events with hot bands and good food to help people meet other singles who share a love of public radio.*
+
+The public radio discount card (a membership card shown at various local businesses would get you a 10-20% discount) was a step toward providing a measurable value to membership. In a digital age, we can go so much further. I would want to hire someone who is thinking a bit more in this business/service mode than in mainly a soliciting donations mode. You probably intended that. I’m not sure it comes through as clearly as you might want.   
+
 ## How-Might-We's
 
 Here's where we put the big list of potential avenues for greater/higher quality engagement.  
