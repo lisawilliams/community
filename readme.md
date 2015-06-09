@@ -1,6 +1,6 @@
 ## A Job Description for Community Engagement for News in 2015
 
-Hi, friends.  I was asked to write a job description for someone doing community engagement for a news organization.  This is not a job description for an intern, but for a role with real power to affect cultural and business outcomes for a news organization.  
+Hi, friends.  I was asked to write a job description for someone doing community engagement for a news organization.  This is not a job description for an intern, but for a role with real power to affect cultural and business outcomes for a news organization. I see this as not simply a task of interest to one news organization, but an interesting way to think about where we are now, in 2015, when it comes to online community for news.  Not so long ago, there was widespread hope that news could become an exciting, engaging, and enriching two way experience for reporters and the audience; now, too many of us are in the bunker, not reading the comments.  What can be done?  What should be done?  What would that job description look like? 
 
 ## Can I add to this?  
 
