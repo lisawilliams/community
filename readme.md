@@ -114,11 +114,15 @@ Alison Gow, quoted in Jake Batsell's book [Engaged Journalism: Connecting With D
 
 I am grateful to the people who read through this and offered their thoughts.  I have written to quite a few of you and will note your contributions here (with your permission, of course). 
 
-*"It feels like we forget to think about how to engage those affected & interested often. It ends up making it impossible for management to understand why a well-built community may be upset when something changes."* [Andre Natta](http://twitter.com/acnatta)
+**[Andre Natta](http://twitter.com/acnatta)**
 
-Melody Kramer contributed links to two pieces of her own in [this issue](https://github.com/lisawilliams/community/issues/1), which you can find in the [Reading List](https://github.com/lisawilliams/community#news-and-community----an-unfinished-reading-list) and [Hors Categorie](https://github.com/lisawilliams/community#hors-categorie)
+*"It feels like we forget to think about how to engage those affected & interested often. It ends up making it impossible for management to understand why a well-built community may be upset when something changes."* 
 
-Michael Skoler of PRI had this to add:  
+**[Melody Kramer](http://twitter.com/mkramer)** 
+
+Melody contributed links to two pieces of her own in [this issue](https://github.com/lisawilliams/community/issues/1), which you can find in the [Reading List](https://github.com/lisawilliams/community#news-and-community----an-unfinished-reading-list) and [Hors Categorie](https://github.com/lisawilliams/community#hors-categorie)
+
+**[Michael Skoler](http://twitter.com/mskoler)** of PRI had this to add:  
 
 *I wonder if you might go a step further. The description calls for someone to create partnership with the community. But what about creating service to the community?*
 
@@ -131,7 +135,7 @@ Michael Skoler of PRI had this to add:
 
 *2) Serving - creating products and services based on what we know about the community. This can be as mundane as creating babysitter rating and scheduling services in a community with lots of young parents or as big as finding ways to bring people of different races together in a tense community around shared issues and events (kids sports or summer camp forums or volunteer matching.) Many of these services can be done easily with digital tools and could be tied to being a “member.” I am a fan of events revenue, too, and the underwriting opportunities they provide, a la Texas Tribune. WNYC has even held singles events with hot bands and good food to help people meet other singles who share a love of public radio.*
 
-The public radio discount card (a membership card shown at various local businesses would get you a 10-20% discount) was a step toward providing a measurable value to membership. In a digital age, we can go so much further. I would want to hire someone who is thinking a bit more in this business/service mode than in mainly a soliciting donations mode. You probably intended that. I’m not sure it comes through as clearly as you might want.   
+*The public radio discount card (a membership card shown at various local businesses would get you a 10-20% discount) was a step toward providing a measurable value to membership. In a digital age, we can go so much further. I would want to hire someone who is thinking a bit more in this business/service mode than in mainly a soliciting donations mode. You probably intended that. I’m not sure it comes through as clearly as you might want.*  
 
 ## How-Might-We's
 
