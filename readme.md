@@ -43,7 +43,6 @@ This is an offshoot of [Do Read The Comments](https://github.com/lisawilliams/do
 
 Here are things I am reading and noting as I think this through.  They may be of interest to you too.  Have more?  Submit them [here](https://github.com/lisawilliams/community/issues/new). 
 
-
 Melody Kramer's [If I Ran A Station](http://melodykramer.github.io/2015/05/14/if-I-ran-a-station/) is a cornucopia of engagement ideas, from running classes, to having public recording stations, to personalization, to...well, [just go read the whole thing](http://melodykramer.github.io/2015/05/14/if-I-ran-a-station/).  
 
 
@@ -109,7 +108,7 @@ Alison Gow, quoted in Jake Batsell's book [Engaged Journalism: Connecting With D
 
 ## Responses & Contributions
 
-I am grateful to the people who read through this and offered their thoughts.  
+I am grateful to the people who read through this and offered their thoughts.  I have written to quite a few of you and will note your contributions here (with your permission, of course). 
 
 *"It feels like we forget to think about how to engage those affected & interested often. It ends up making it impossible for management to understand why a well-built community may be upset when something changes."* [Andre Natta](http://twitter.com/acnatta)
 
