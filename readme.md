@@ -1,7 +1,7 @@
 ## A Job Description for Community Engagement for News in 2015
 
-Hi, friends.  I was asked to write a job description for someone doing community engagement for a news organization.  This is not a job description for an intern, but for a role with real power to affect cultural and business outcomes for a news organization. I see this as not simply a task of interest to one news organization, but an interesting way to think about where we are now, in 2015, when it comes to online community for news.  Not so long ago, there was widespread hope that news could become an exciting, engaging, and enriching two way experience for reporters and the audience; now, too many of us are in the bunker, not reading the comments.  What can be done?  What should be done?  What would that job description look like? 
-
+Not so long ago, there was widespread hope that news could become an exciting, engaging, and enriching two way experience for reporters and the audience; now, too many of us are in the bunker, not reading the comments.  What can be done?  What should be done?  What would that job description look like? 
+  
 ## Can I add to this?  
 
 Yes, absolutely.  Here are some instructions on how to add to this repository: [Here's a beginner's guide](https://nerds.inn.org/2015/03/17/contributing-to-the-inn-nerds-docs-repo-using-github-com/). Just substitute this repository for the one used as an example in the tutorial.  
@@ -33,6 +33,10 @@ A person in charge of community engagement for our organization will:
 * Help membership do its job even more effectively. What were people watching, reading, or listening to the moment before they decided to donate? What motivated them to donate?
 * Find ways to leverage community to create underwriting and sponsorship products that help the Underwriting Department drive revenue. 
 * Create a basic "level of service" for the community of people who care about the organization's work. When people comment, @reply, or share on Facebook, are we ignoring them?  
+
+## What is community for?	
+
+How news creates the public space, the medium upon which community forms.  
 
 
 ## Where did this come from?  
@@ -113,6 +117,11 @@ I am grateful to the people who read through this and offered their thoughts.  I
 *"It feels like we forget to think about how to engage those affected & interested often. It ends up making it impossible for management to understand why a well-built community may be upset when something changes."* [Andre Natta](http://twitter.com/acnatta)
 
 Melody Kramer contributed links to two pieces of her own in [this issue](https://github.com/lisawilliams/community/issues/1), which you can find in the [Reading List](https://github.com/lisawilliams/community#news-and-community----an-unfinished-reading-list) and [Hors Categorie](https://github.com/lisawilliams/community#hors-categorie)
+
+## How-Might-We's
+
+Here's where we put the big list of potential avenues for greater/higher quality engagement.  
+
 ## Codebases
 
 *More to come here.  Do you have anything to add?*
