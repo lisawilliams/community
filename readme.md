@@ -1,13 +1,6 @@
-#Community for News organizations
+## A Job Description for Community Engagement for News in 2015
 
-##Questions
-
-I write this in 2015, and it is remarkable to me how old many of these essays are.  It feels in part as though we've passed on beyond community, like it's a missed opportunity.  True? -- LW
-
-
-## Where did this come from?  
-
-This is an offshoot of [Do Read The Comments](https://github.com/lisawilliams/doreadthecomments), a similar collection specifically about reforming and reclaiming comments from their current slough of despond.
+Hi, friends.  I was asked to write a job description for someone doing community engagement for a news organization.  This is not a job description for an intern, but for a role with real power to affect cultural and business outcomes for a news organization.  
 
 ## Can I add to this?  
 
@@ -17,11 +10,48 @@ If that feels like too much, you can just click [Issues](https://github.com/lisa
 
 If that still feels like too much, summon me on the Twitter, where I am [@lisawilliams](http://twitter.com/lisawilliams).
 
-## Reading List 
+# Community Engagement for News: A Job Description
+
+**Intro**
+
+We believe that we cannot have a better world without a better journalism, and we believe that we cannot have a better journalism without doing a better job forging deep & lasting connections with the people we serve.  
+
+Although we believe that building community is tied to our mission, we also know that it is tied to the long-term viability of our news organizations.  The value of pageviews is driven down every year by click-driven juggernauts like Facebook and Buzzfeed.  Few regional or even national news organizations can be competitive in the pageviews arms race. Because the pageviews arms race is a race to the bottom, both in terms of quality and economically, we do not want to base our work or our business on it.  
+
+But we do have to pay the bills.  So if we're not driving pageviews to drive advertising revenue, then what?  Ultimately, we must convert some number of the people who consume our work into supporters of our work, and that rests on excellent, energetic, and mission-driven engagement with the people who care about our work the most.  
+
+A person in charge of community engagement for our organization will:   
+
+*(This is written from the point of view of an NPR affiliate, but could be any news organization)**
+
+* Design and conduct experiments that will help us discover how to make membership meaningful in a digital context. *(Why?  I'm not sure we really know what works.)*
+* Design and share community metrics that allow us to better serve the audience
+* Demonstrate by our actions that community is not an afterthought.
+* 
+* Create as many simple, elegant ways for those at the news organization and those they serve to engage as possible.
+* Keep notes on what works and what doesn't, and share this widely with others in the field.
+* Help producers power the creation of new shows by harnessing the creativity of our community.
+* Help membership do its job even more effectively.  What were people watching, reading, or listening to the moment before they decided to donate?  What motivated them to donate?
+* Find ways to leverage community to create underwriting and sponsorship products that help the Underwriting Department drive revenue. 
+* Create a basic "level of service" for the community of people who care about the organization's work.  When people comment, @reply, or share on Facebook, are we ignoring them?  
+
+
+## Where did this come from?  
+
+This is an offshoot of [Do Read The Comments](https://github.com/lisawilliams/doreadthecomments), a similar collection specifically about reforming and reclaiming comments from their current slough of despond.
+
+
+## News and Community -- an (unfinished) reading list
+
+I write this in 2015, and it is remarkable to me how old many of these essays are.  It feels in part as though we've passed on beyond community, like it's a missed opportunity.  True? -- LW
 
 *"We search for new business models that involve paywalls, more video, the iPad, and wealthy donors, while the most powerful emerging business driver in the new economy is community."*  
 
 [Community: A New Business Model for News](http://niemanreports.org/articles/community-a-new-business-model-for-news/) Michael Skoler, writing in NiemanLab, 2011
+
+*If you ever write a blog post, article or content piece which is open to comments, you may sometimes be dismayed by the comments which follow it. You may have deserved them. You may not. But people being rude to you in public is never nice, is it? So rather than feeling depressed and downhearted about the public discourse surrounding your efforts, you can ameliorate any negative feelings by simply using the alternative comment scoring grid below...*
+
+[Meg Pickard's Comments Game](http://megpickard.com/2010/09/want-to-play-a-game/#more-3695)
 
 
 *For that effort, API will create a flexible “toolkit” for putting on a news organization-run community event that discusses a local issue, including an event guide and flexible program.* 
@@ -70,3 +100,5 @@ If that still feels like too much, summon me on the Twitter, where I am [@lisawi
 ## Problems 
 
 ## Hors Categorie
+
+
