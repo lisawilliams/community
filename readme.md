@@ -51,6 +51,10 @@ I write this in 2015, and it is remarkable to me how old many of these essays ar
 
 [Meg Pickard's Comments Game](http://megpickard.com/2010/09/want-to-play-a-game/#more-3695)
 
+*For news outlets in the twenty-first century, engagement means somehow getting audiences invested enough in the outlet's journalism to make a habit of coming back -- and converting that attention into revenue that pays the bills.*  
+
+[Engaged Journalism: Connecting With Digitally Empowered News Audiences](http://www.amazon.com/Engaged-Journalism-Connecting-Digitally-Empowered/dp/0231168357) Jake Batsell, 2015 (book)
+
 
 *For that effort, API will create a flexible “toolkit” for putting on a news organization-run community event that discusses a local issue, including an event guide and flexible program.* 
 
