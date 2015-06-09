@@ -97,6 +97,10 @@ I write this in 2015, and it is remarkable to me how old many of these essays ar
 
 [Publishing process and opportunities for community collaboration](http://megpickard.com/2011/05/publishing-process-and-opportunities-for-community-collaboration/)  Meg Pickard, writing in 2011
 
+*Any relevant twenty-first-century newsroom needs someone whose chief responsibility is to advocate for the audience, whether that person is a community engagement editor, social media manager, or, even better, has a position higher up the chain of command. This newsroom audience czar should have real internal clout, unlike many of the newspaper ombuds or reader representatives of years past, whose presence often was made known only in a weekly op-ed column. “I need somebody who actually is on my command desk, fighting for the audience and what they want at every point in the newsgathering process,” said Alison Gow, editor of the Daily Post in North Wales. Gow created the new position of head of audience engagement in May 2013, replacing the less powerful role of community editor because she wanted somebody “coming at it from a completely different perspective and quite possibly saying, “That story that you think is so great is actually repelling people’”*  
+
+Alison Gow, quoted in Jake Batsell's book [Engaged Journalism: Connecting With Digitally Empowered News Audiences](http://www.amazon.com/Engaged-Journalism-Connecting-Digitally-Empowered/dp/0231168357) 2015 
+
 ## Codebases
 
 *More to come here.  Do you have anything to add?*
