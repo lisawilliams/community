@@ -22,17 +22,20 @@ But we do have to pay the bills.  So if we're not driving pageviews to drive adv
 
 A person in charge of community engagement for our organization will:   
 
-*(This is written from the point of view of an NPR affiliate, but could be any news organization)**
+*(This is written from the point of view of an NPR affiliate, but could be any news organization)*
 
-* Design and conduct experiments that will help us discover how to make membership meaningful in a digital context. *(Why?  I'm not sure we really know what works).*
+* Design and conduct experiments that will help us discover how to make membership meaningful in a digital context. 
 * Design and share community metrics that allow us to better serve the audience.
-* Demonstrate by our actions that community is not an afterthought.
+* Prototype products and services that make membership valuable and appealing to current and new members. 
 * Create as many simple, elegant ways for those at the news organization and those they serve to engage as possible.
 * Keep notes on what works and what doesn't, and share this widely with others in the field.
 * Help producers power the creation of new shows by harnessing the creativity of our community.
 * Help membership do its job even more effectively. What were people watching, reading, or listening to the moment before they decided to donate? What motivated them to donate?
 * Find ways to leverage community to create underwriting and sponsorship products that help the Underwriting Department drive revenue. 
 * Create a basic "level of service" for the community of people who care about the organization's work. When people comment, @reply, or share on Facebook, are we ignoring them?  
+* Demonstrate by our actions that community is not an afterthought.
+
+
 
 ## What is community for?	
 
@@ -121,6 +124,10 @@ I am grateful to the people who read through this and offered their thoughts.  I
 **[Melody Kramer](http://twitter.com/mkramer)** 
 
 Melody contributed links to two pieces of her own in [this issue](https://github.com/lisawilliams/community/issues/1), which you can find in the [Reading List](https://github.com/lisawilliams/community#news-and-community----an-unfinished-reading-list) and [Hors Categorie](https://github.com/lisawilliams/community#hors-categorie)
+
+**[Jake Batsell](http://twitter.com/jbatsell)**
+
+*One concept you might also want to incorporate is the idea of audience advocacy. Karen Workman talks about this on page 47 of the book, as does Alison Gow on page 76 ... the idea of empowering an "audience czar" with real decision-making clout in the newsroom.*  Quotes from Jake's work can be seen in the [Reading List](https://github.com/lisawilliams/community#news-and-community----an-unfinished-reading-list). 
 
 **[Michael Skoler](http://twitter.com/mskoler)** of PRI had this to add:  
 
